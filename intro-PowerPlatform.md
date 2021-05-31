@@ -17,5 +17,5 @@ On the data lavel, we will find
 * Dataverse, which provides a secure relational cloud-based storage option for your data - with rich data types & enterprise-grade governance
 * AI Builder - which can enhance apps and flows with AI
 
-![image](https://user-images.githubusercontent.com/49960482/120198391-51ae8300-c222-11eb-8e6b-c8b94df30363.png)
+![Power Platform Overview](https://github.com/marcduiker/azure-functions-challenges/blob/main/media/power_platform_overview.png)
 
