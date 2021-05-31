@@ -19,3 +19,9 @@ On the data lavel, we will find
 
 ![Power Platform Overview](https://github.com/marcduiker/azure-functions-challenges/blob/main/media/power_platform_overview.png)
 
+This should do as an overview. In the upcoming Azure Functions University Challenges we want you to extend solutions wwith low code approach. Objectives of these exercises are:
+
+* gain basic knowledge on Power Automate to process a workload
+* gain basic knowledge on Power Apps on how to build a UI and a custom connector for an Azure Function
+* know when to use and not to use low code (limitations, scope)
+
